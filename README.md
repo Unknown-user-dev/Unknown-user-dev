@@ -19,6 +19,10 @@ const Unknown = {
     }
 };
 ```
+<p align="center">
+─────────────────────────────────────
+</p>
+
 ### Connect with me:
 [<img align="left" alt="unknownuserdev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="unknown | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
