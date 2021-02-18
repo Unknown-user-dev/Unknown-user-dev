@@ -21,7 +21,7 @@ const Unknown = {
 ```
 ### Connect with me:
 [<img align="left" alt="unknownuserdev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="hexeption | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="unknown | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <p align="center">
 ─────────────────────────────────────
@@ -34,6 +34,6 @@ const Unknown = {
 <img align="left" alt="Unknown-user-dev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unknown-user-dev&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Unknown-user-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Unknown-user-dev&show_icons=true&hide_border=true&theme=radical" />
 
-[website]: https://hexeption.co.uk
+[website]: https://unknownuserdev.cf
 [discord]: https://discord.gg/MEhhjFb772
 [github]: https://www.github.com/Unknown-user-dev
