@@ -17,8 +17,7 @@ Hi Everyone Welcome to me github ^^
 ### Connect with me:
 
 - 🧥 You can contact me to me discord : Unknown User [ΔΞИΞNØ] [VENUЯIS]#6242
-
-[<img align="left" alt="unknownuserdev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+- 🥼And me website : https://unknownuserdev.cf
 
 <p align="center">
 ─────────────────────────────────────
