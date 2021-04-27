@@ -2,12 +2,12 @@
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is the Unknown Speaking.
+Hi Everyone Welcome to me github ^^
 
 ```javascript
 const Unknown = {
-    pronouns: "Your grace" | "My Lord",
-    askMeAbout: ["Odium", "Dolor", "Vindicta"],
+    pronouns: "Haters" | "My Life",
+    askMeAbout: ["Code", "Eat", "Sleep"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular", "Express", "Electron", "React"],
