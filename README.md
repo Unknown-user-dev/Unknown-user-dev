@@ -5,14 +5,16 @@
 Hi Everyone Welcome to me github ^^
 
 ### Personal affair :
+- 🤞 Right now I'm either Discord or learning new languages!
+- ✨You can ask me for help if you want if I can give you help for free of course and if I will arrive :D
+- 🧵I working to me project (Kannaso)
+
 <p align="center">
 ─────────────────────────────────────
 </p>
 
 ### Connect with me:
 
-- 🤞 Right now I'm either Discord or learning new languages!
-- ✨You can ask me for help if you want if I can give you help for free of course and if I will arrive :D
 - 🧥 You can contact me to me discord : Unknown User [ΔΞИΞNØ] [VENUЯIS]#6242
 
 [<img align="left" alt="unknownuserdev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -37,5 +39,4 @@ Hi Everyone Welcome to me github ^^
 <img align="right" alt="Unknown-user-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Unknown-user-dev&show_icons=true&hide_border=true&theme=radical" />
 
 [website]: https://unknownuserdev.cf
-[discord]: https://discord.gg/MEhhjFb772
 [github]: https://www.github.com/Unknown-user-dev
