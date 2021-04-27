@@ -4,28 +4,18 @@
 
 Hi Everyone Welcome to me github ^^
 
-```javascript
-const Unknown = {
-    pronouns: "Haters" | "My Life",
-    askMeAbout: ["Code", "Eat", "Sleep"],
-    technologies: {
-        frontEnd: {
-            js: ["Vue", "React", "Angular", "Express", "Electron", "React"],
-            css: ["bootstrap", "sass"]
-	    php: ["CodeIgniter", "CakePHP", "Laravel", "PEAR",]
-        },
-        backEnd: ["Java", "PHP"],
-        databases: ["MySql", "oracle", "MongoDB"],
-    }
-};
-```
+### Personal affair :
 <p align="center">
 ─────────────────────────────────────
 </p>
 
 ### Connect with me:
+
+- 🤞 Right now I'm either Discord or learning new languages!
+- ✨You can ask me for help if you want if I can give you help for free of course and if I will arrive :D
+- 🧥 You can contact me to me discord : Unknown User [ΔΞИΞNØ] [VENUЯIS]#6242
+
 [<img align="left" alt="unknownuserdev.cf" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="unknown | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <p align="center">
 ─────────────────────────────────────
