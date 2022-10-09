@@ -17,7 +17,6 @@
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://media.tenor.com/j-fxIwS-RDEAAAAC/mai-sakurajima-anime.gif" align="right">
   </div>
 <li>
  <b>Name:</b> <a href='https://laby.net/@KylianIsPopcorn' target=_blank>Kylian</a></li>
