@@ -23,9 +23,11 @@
 <br/>
   
 - 📗 [***Unknown-user-dev/OniStatusGame***](https://github.com/Unknown-user-dev/OniStatusGame) <br/>
-  A bot discord status for your server!
+  A Bot discord status for your server!
 - 📘 [***Unknown-user-dev/Uniria-UFW***](https://github.com/Unknown-user-dev/Uniria-UFW) <br/>
-  A firewall config UFW for linux !
+  A Firewall config UFW for linux !
+- 📕 [***Unknown-user-dev/MinasoGen***](https://github.com/Unknown-user-dev/MinasoGen) <br/>
+  A Password Generator with Base64!
 
 <br/>
 <img src="banner.png" width="500" /><br/>
