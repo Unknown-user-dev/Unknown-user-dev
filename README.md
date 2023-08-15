@@ -9,7 +9,7 @@
 
 - Live in **London, United Kingdom**
   
-- Student in **Robespierre, 2TNE**
+- Student in **Robespierre, 2TNE (France)** 
 
 - Studying [***Programmation And Network***](https://www.eccouncil.org/programs/certified-network-security-course/)
 
