@@ -7,9 +7,9 @@
   
 - Name **Unknown User**
 
-- Live in **London, United Kingdom**
+- Live in **Avion, France**
   
-- Student in **Robespierre, 1SN (France)** 
+- Student in **Robespierre, 1SN** 
 
 - Studying [***Programmation And Network***](https://www.eccouncil.org/programs/certified-network-security-course/)
 
