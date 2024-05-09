@@ -14,12 +14,12 @@
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
-<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
+<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/emojis/1232669309143089273.webp"></a>
 I'm Unknown User and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
-<a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
+<a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/emojis/1232669321772142685.webp"></a>
 I'm currently studying Networking at Robespierre. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
@@ -34,7 +34,7 @@ I'm currently studying Networking at Robespierre. Two years of College have pass
 
 ## **🧋Cutie Counter**
 <a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Unknown-user-dev?theme=rule34"></a>
-<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
+<a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/emojis/1232669306249285722.webp"></a>
 
 ```yaml
 People who visit my profile :3.
@@ -43,7 +43,7 @@ Hehe~ another cutie has been caught.
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
+<a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/emojis/1232669315711369387.webp" /></a>
 **Please Contact me on Discord for a quick response:** [unknownuser.js](https://discord.com/users/921126770340683886)
 
 **You can also email me here:** contact@unknownandev.me
