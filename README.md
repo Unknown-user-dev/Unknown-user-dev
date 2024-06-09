@@ -33,7 +33,7 @@ I'm currently studying Networking at Robespierre. Two years of College have pass
 </p>
 
 ## **🧋Cutie Counter**
-<a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@Unknown-user-dev?theme=rule34"></a>
+<a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://count.getloli.com/get/@Unknown-user-dev?theme=rule34"></a>
 <a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/emojis/1232669306249285722.webp"></a>
 
 ```yaml
