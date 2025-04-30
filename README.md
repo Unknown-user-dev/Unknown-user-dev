@@ -6,7 +6,7 @@
   <img src="standard (1).gif" />
 </div>
 
-<a href="https://discord.com/users/921126770340683886"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/921126770340683886"></a>
+<a href="https://discord.com/users/921126770340683886"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/921126770340683886?showDisplayName=true"></a>
 
 
 ### Hi!👋 I'm **`Unknown`** aka `Kylian 💻`
