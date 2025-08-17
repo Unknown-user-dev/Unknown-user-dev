@@ -33,7 +33,7 @@ I'm currently doing 42 Piscine at 19 Brussels campus 🏊‍♂️, Already stud
 </p>
 
 ## **🧋View Counter**
-<a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="![](https://komarev.com/ghpvc/?username=Unknown-user-dev)"></a>
+[](https://komarev.com/ghpvc/?username=Unknown-user-dev)")
 <a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/emojis/1232669306249285722.webp"></a>
 
 ```yaml
