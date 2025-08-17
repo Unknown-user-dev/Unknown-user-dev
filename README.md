@@ -11,16 +11,16 @@
 
 ### Hi!👋 I'm **`Unknown`** aka `Kylian 💻`
 
-**Weeb Developer and Gamer** 
+**Backend Developer** 
 
 ## **☕ About me**
 <a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/emojis/1232669309143089273.webp"></a>
-I'm Unknown User and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+I'm Unknown User and my hobbies are playing games, watching anime, making api, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
 <a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/emojis/1232669321772142685.webp"></a>
-I'm currently studying Networking at Robespierre. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently doing 42 Piscine at 19 Brussels campus 🏊‍♂️, Already studied 3 Year about Networking & IT (Cisco, Linux Server Management Knowledge..), And i started to learn about codes since my 8 year old 
 
 
 ## **📊 Github Stats**
@@ -32,14 +32,14 @@ I'm currently studying Networking at Robespierre. Two years of College have pass
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=31w7jcdmqofvfeazvo6riqi325hu&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31w7jcdmqofvfeazvo6riqi325hu&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/31w7jcdmqofvfeazvo6riqi325hu"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=31w7jcdmqofvfeazvo6riqi325hu"></a>
 </p>
 
-## **🧋Cutie Counter**
-<a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="https://count.getloli.com/get/@Unknown-user-dev?theme=rule34"></a>
+## **🧋View Counter**
+<a href="https://discord.com/users/921126770340683886"><img align="right" width=400 src="![](https://komarev.com/ghpvc/?username=Unknown-user-dev)"></a>
 <a href="https://github.com/Unknown-user-dev"><img align="left" width="100" src="https://cdn.discordapp.com/emojis/1232669306249285722.webp"></a>
 
 ```yaml
-People who visit my profile :3.
+People who visit my profile  :
 
-Hehe~ another cutie has been caught.
+Amazing maybe i'm a stars :0
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
