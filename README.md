@@ -20,7 +20,7 @@ I'm Unknown User and my hobbies are playing games, watching anime, making api, a
 
 ## **💻 Experience**
 <a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/emojis/1232669321772142685.webp"></a>
-I'm currently doing 42 Piscine at 19 Brussels campus 🏊‍♂️, Already studied 3 Year about Networking & IT (Cisco, Linux Server Management Knowledge..), And i started to learn about codes since my 8 year old 
+Already studied 3 Year about Networking & IT (Cisco, Linux Server Management Knowledge..), And i started to learn about codes since my 8 year old, Currently still learning about codes
 
 
 ## **📊 Github Stats**
